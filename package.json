@@ -1,0 +1,40 @@
+{
+  "name": "node-typedarray",
+  "description": "How to mix node.js's Buffers and Typed Arrays",
+  "version": "0.1.0",
+  "homepage": "http://www.jcore.fr",
+  "keywords": [
+		"bot",
+		"gadget",
+		"widget",
+		"crawler",
+        "dom",
+		"html",
+		"js",
+		"style",
+		"css",
+        "w3c",
+        "javascript",
+		"ajax"
+  ],
+  "maintainers": [
+      {
+          "name": "Aymeric Vitte"
+      }
+  ],
+  "contributors": [
+  ],
+  "repository": {
+    "url": ""
+  },
+  "licenses": [
+      {
+          "type": "MIT"
+      }
+  ],
+  "author": "Aymeric Vitte <vitteaymeric@gmail.com> (http://www.jcore.fr)",
+  "main": "./lib/node-typedarray.js",
+  "engines": {
+    "node": "*"
+  }
+}
