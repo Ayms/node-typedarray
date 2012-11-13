@@ -37,7 +37,7 @@ See simple tests in the code.
 	
 ## Related projects :
 
-[Ayms/node-dom](https://github.com/Ayms/node-Tor)
+[Ayms/node-Tor](https://github.com/Ayms/node-Tor)
 [Ayms/node-dom](https://github.com/Ayms/node-dom)
 [Ayms/node-bot](https://github.com/Ayms/node-bot)
 [Ayms/node-gadgets](https://github.com/Ayms/node-gadgets)
