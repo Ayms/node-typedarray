@@ -1,7 +1,7 @@
 node-typedarray
 ===
 
-Simple examples/methods showing how to mix node.js's Buffers and Typed Arrays
+Simple examples/methods showing how to mix node.js's Buffers and W3C Typed Arrays
 
 ## Rationale :
 
