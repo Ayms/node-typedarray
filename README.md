@@ -1,7 +1,9 @@
 node-typedarray
 ===
 
-Simple examples/methods showing how to mix node.js's Buffers and W3C Typed Arrays
+Simple examples/methods showing how to mix node.js's Buffers and standard Typed Arrays
+
+This repo is deprecated now, see [Ayms/abstract-tls](https://github.com/Ayms/abstract-tls) for optimized functions.
 
 ## Rationale :
 
@@ -37,8 +39,10 @@ See simple tests in the code.
 	
 ## Related projects :
 
-[Ayms/iAnonym](https://github.com/Ayms/iAnonym)
-[Ayms/node-Tor](https://github.com/Ayms/node-Tor)
-[Ayms/node-dom](https://github.com/Ayms/node-dom)
-[Ayms/node-bot](https://github.com/Ayms/node-bot)
-[Ayms/node-gadgets](https://github.com/Ayms/node-gadgets)
+* [Ayms/node-iAnonym](https://github.com/Ayms/iAnonym)
+* [Ayms/node-Tor](https://github.com/Ayms/node-Tor)
+* [Ayms/websocket](https://github.com/Ayms/websocket)
+* [Ayms/abstract-tls](https://github.com/Ayms/abstract-tls)
+* [Ayms/node-dom](https://github.com/Ayms/node-dom)
+* [Ayms/node-bot](https://github.com/Ayms/node-bot)
+* [Ayms/node-gadgets](https://github.com/Ayms/node-gadgets)
